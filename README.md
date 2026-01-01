@@ -27,6 +27,6 @@ default (when no `$NUMERIC_TYPE` is provided) is `u16`
 
 this is originally developed to be used in the following repo:
 
-https://github.com/RezaBani/rust_002_guessing_game
+https://github.com/RezaBani/GuessingGame
 
 why? because rust std doesn't provide random number generators :(
